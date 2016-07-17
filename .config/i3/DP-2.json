@@ -1,0 +1,80 @@
+// vim:ts=4:sw=4:et
+{
+    // workspace with 2 children
+    "border": "pixel",
+    "floating": "auto_off",
+    "fullscreen_mode": 1,
+    "layout": "splith",
+    "percent": null,
+    "type": "workspace",
+    "nodes": [
+        {
+            "border": "pixel",
+            "current_border_width": 1,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 460,
+               "width": 804,
+               "x": 0,
+               "y": 0
+            },
+            "name": "htop",
+            "percent": 0.5,
+            "swallows": [
+               {
+               // "instance": "^htop$",
+               }
+            ],
+            "type": "con"
+        },
+        {
+            // splitv split container with 2 children
+            "border": "pixel",
+            "floating": "auto_off",
+            "layout": "splitv",
+            "percent": 0.5,
+            "type": "con",
+            "nodes": [
+                {
+                    "border": "pixel",
+                    "current_border_width": 1,
+                    "floating": "auto_off",
+                    "geometry": {
+                       "height": 460,
+                       "width": 804,
+                       "x": 0,
+                       "y": 0
+                    },
+                    "name": "WeeChat 1.4",
+                    "percent": 0.5,
+                    "swallows": [
+                       {
+                       // "instance": "^weechat$",
+                       }
+                    ],
+                    "type": "con"
+                },
+                {
+                    "border": "pixel",
+                    "current_border_width": 1,
+                    "floating": "auto_off",
+                    "geometry": {
+                       "height": 460,
+                       "width": 804,
+                       "x": 0,
+                       "y": 0
+                    },
+                    "name": "Music Player Client",
+                    "percent": 0.5,
+                    "swallows": [
+                       {
+                       // "instance": "^ncmpcpp$",
+                       }
+                    ],
+                    "type": "con"
+                }
+            ]
+        }
+    ]
+}
+

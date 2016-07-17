@@ -1,0 +1,47 @@
+URxvt.termName: rxvt-unicode-256color
+
+URxvt*font: xft:DejaVu Sans Mono for Powerline:antialias:size=11
+URxvt*scrollBar: off
+URxvt*cursorBlink: 1
+URxvt*cursorUnderLine: 1
+URxvt*termName: rxvt-256color
+URxvt*xftAntialias: true
+URxvt*background: #3f3f3f
+URxvt*foreground: #dcdccc
+URxvt*cursorColor: #aaaaaa
+URxvt*colorUL: #366060
+URxvt*underlineColor: #dfaf8f
+URxvt*color0: #3f3f3f
+URxvt*color1: #cc9393
+URxvt*color2: #7f9f7f
+URxvt*color3: #d0bf8f
+URxvt*color4: #6ca0a3
+URxvt*color5: #dc8cc3
+URxvt*color6: #93e0e3
+URxvt*color7: #dcdccc
+URxvt*color8: #000000
+URxvt*color9: #dca3a3
+URxvt*color10: #bfebbf
+URxvt*color11: #f0dfaf
+URxvt*color12: #8cd0d3
+URxvt*color13: #dc8cc3
+URxvt*color14: #93e0e3
+URxvt*color15: #ffffff
+
+rofi.modi:		window,run,ssh
+rofi.font:              mono 16
+rofi.color-enabled: 	true
+rofi.color-window: 	#3f3f3f, #3f3f3f, #93e0e3
+rofi.color-normal: 	argb:03f3f3f, #7f9f7f, argb:03f3f3f, #7f9f7f, #1b2b34
+rofi.color-active: 	argb:03f3f3f, #d0bf8f, argb:03f3f3f, #d0bf8f, #3f3f3f
+rofi.color-urgent: 	argb:03f3f3f, #f99157, argb:03f3f3f, #f99157, #3f3f3f
+rofi.fullscreen:        false
+rofi.fake-transparency: false
+rofi.hide-scrollbar:    true
+rofi.terminal:		urxvtc
+rofi.ssh-client:	ssh
+rofi.ssh-command:	{terminal} -e {ssh-client} {host}
+rofi.padding:		15
+
+
+!rofi -color-window "#3f3f3f, #3f3f3f, #93e0e3" -color-normal "argb:03f3f3f, #7f9f7f, argb:03f3f3f, #7f9f7f, #1b2b34" -color-active "argb:03f3f3f, #d0bf8f, argb:03f3f3f, #d0bf8f, #3f3f3f" -color-urgent "argb:03f3f3f, #f99157, argb:03f3f3f, #f99157, #3f3f3f"

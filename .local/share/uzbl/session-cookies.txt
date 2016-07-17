@@ -1,0 +1,26 @@
+# HTTP Cookie File
+#HttpOnly_gist.github.com	FALSE	/	TRUE		_gh_sess	eyJzZXNzaW9uX2lkIjoiNWI2Mzk0YTZlMmU3MWQ2ZGUyNzY1NjAzYTI5ZjI3MTYiLCJyZWZlcnJhbF9jb2RlIjoiaHR0cDovL3d3dy5nb29nbGUuY28udWsvc2VhcmNoP3E9dXhydnQremVuYnVybiZnd3NfcmQ9Y3ImZWk9UHdTSlYtcTRGSXJJZ0FiMnc0aXdEQSIsIl9jc3JmX3Rva2VuIjoiQ0dUK1hpWE1qUmFNOWZPbVluZVNTMDZZcVNNSGs0c1ljMFNuWGRDVnhmQT0ifQ%3D%3D--852a1450f81ae5318b5133b0b34954feaffe0ec1
+.ohmyz.sh	TRUE	/	FALSE		__utmc	211627083
+.ohmyz.sh	TRUE	/	FALSE		_te_	1
+.casalemedia.com	TRUE	/	FALSE		CMSC	V4kGQw**
+pixel.rubiconproject.com	FALSE	/	FALSE		c	1
+gist.github.com	FALSE	/	TRUE		tz	Europe%2FLondon
+github.com	FALSE	/	TRUE		tz	Europe%2FLondon
+#HttpOnly_github.com	FALSE	/	TRUE		_gh_sess	eyJzZXNzaW9uX2lkIjoiM2NmOTZkMzRlOWE5MDAzNWU3NmMwYzJjNjE1NWU0ZDQiLCJyZWZlcnJhbF9jb2RlIjoiaHR0cDovL3d3dy5nb29nbGUuY28udWsvc2VhcmNoP3E9b2hteSt6c2grZnJlZWJzZCZnd3NfcmQ9Y3ImZWk9SndlSlZfM0FIc3ZHZ0FhNnlMZkFEdyIsInNweV9yZXBvIjoicm9iYnlydXNzZWxsL29oLW15LXpzaCIsInNweV9yZXBvX2F0IjoxNDY4NTk4NTA3LCJfY3NyZl90b2tlbiI6IlpqRVFvTU5tbVIxclVEbHZTZzJRQmk1b1AxWENVdUxaRkE5UGNHcWtvM3M9In0%3D--27b9c8ea577b9a3fa5674e6c2a187d21f9e7a849
+#HttpOnly_forums.freebsd.org	FALSE	/	TRUE		xf_session	504499caad2e0cea739ce03f8e3809b4
+.torkwrench.com	TRUE	/	FALSE		__utmc	92331800
+freebsd.1045724.n5.nabble.com	FALSE	/	FALSE		ab	a
+.adrta.com	TRUE	/	FALSE		__aasi	16324111429875572
+.adrta.com	TRUE	/	FALSE		__aast	1468600490337
+.freebsd.1045724.n5.nabble.com	TRUE	/	FALSE		__utmc	17622382
+#HttpOnly_tag.crsspxl.com	FALSE	/	FALSE		JSESSIONID	12E32C5EF9F16DAC822D526BE3DBA6FA
+#HttpOnly_global.ib-ibi.com	FALSE	/	FALSE		ASP.NET_SessionId	3zb1ag5uzy453qajjflswrvh
+#HttpOnly_ibeu2.mookie1.com	FALSE	/	FALSE		ASP.NET_SessionId	0qadnubstsax2hubtdcwg5tq
+.narkive.com	TRUE	/	FALSE		session	16c4f4167189b25e9295593d9e704ac5e7ca8e7b%7EYToxOntzOjExOiJsYXN0X2FjdGl2ZSI7aToxNDY4NjAwNTIyO30%3D
+.www.speedtest.net	TRUE	/	FALSE		bknx_fa	1468665557654
+.rubiconproject.com	TRUE	/	FALSE		rsid	BNyLRCXvosdVEPmucFQCwaVmbbSJzANs4+LfF0On+iZ4W+yaeR+/FfJWLKNRk8U33LJKzx1+pHPOe+JoMesnV79OzcABbXveP/f/ufrsLOdQD5Fr9VmoAWoCkHg5/hX/E6GMNqMmXOwTj0iL+ge+zOuVT5LY6xp0a85gj127VQ==
+www.speedtest.net	FALSE	/	FALSE		GoogleAdServingTest	Good
+#HttpOnly_.youtube.com	TRUE	/	FALSE		YSC	pI7GzpO_kyE
+.freebsd.org	TRUE	/	FALSE		__utmc	1
+.uzbl.org	TRUE	/	FALSE		__utmc	185784813
+#HttpOnly_www.uzbl.org	FALSE	/wiki/	FALSE		DokuWiki	7nbrito61ci6ajkj5ahhmbdqn3
